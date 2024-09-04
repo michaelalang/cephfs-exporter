@@ -1,0 +1,4 @@
+gunicorn
+Flask
+prometheus_client>=0.20.0
+kubernetes
